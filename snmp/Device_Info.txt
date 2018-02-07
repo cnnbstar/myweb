@@ -1,0 +1,19 @@
+#1-Switch Snmp Parameter
+Version =1 #snmp version 1
+Community = private@it #snmp for write and read
+
+
+#2-Switch Hostname & IP
+#2.1- Switch In Beilun
+NBBL_OFF2F-1 = 10.15.2.21 #
+NBBL_OFF2F-2  = 10.15.2.22
+NBBL_OFF2F-3 = 10.15.2.23
+NBBL-OFFTD = 10.15.2.49
+NBBL_OFF4F = 10.15.2.41
+
+NBBL_Test = 10.15.9.253 #this is a test switch
+
+
+#2.2- Switch In Fenghua
+NBFH-1#-S1 = 10.15.255.11
+BNFH-1#-S2 = 10.15.255.12
